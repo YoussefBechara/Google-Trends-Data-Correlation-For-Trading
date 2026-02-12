@@ -1,5 +1,7 @@
 # Trading Google Trends Data Visualization
 
+![Example](https://github.com/YoussefBechara/Google-Trends-Data-Correlation-For-Trading/blob/main/exampleofcorrelation.png)
+
 ## Overview
 
 This project provides tools for visualizing Google Trends data in the context of trading analysis. It includes both a Jupyter notebook and a GUI version for easy data exploration and visualization.
